@@ -12,3 +12,5 @@ https://aarce96.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Arturo Arce
+
+### ©️2019 Run Buddy, Inc 
